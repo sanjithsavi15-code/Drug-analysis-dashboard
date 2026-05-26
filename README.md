@@ -23,7 +23,7 @@ An interactive, executive-level data analytics portal built with Python, Streaml
    ```bash
    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
    cd YOUR_REPO_NAME
-   Install required dependencies:
+Install required dependencies:
 
 Bash
 pip install streamlit pandas plotly numpy
