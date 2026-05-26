@@ -17,21 +17,20 @@ An interactive, executive-level data analytics portal built with Python, Streaml
 * **Visualization:** Plotly Express (Interactive Data Graphics)
 * **Data Handling:** Pandas & NumPy
 
-## 📦 Installation & Setup
+Installation and Setup
+Clone the repository:
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-   cd YOUR_REPO_NAME
+Navigate into the folder:
+cd YOUR_REPO_NAME
+
 Install required dependencies:
-
-Bash
 pip install streamlit pandas plotly numpy
-Run the local development server:
 
-Bash
+Run the local development server:
 python -m streamlit run app.py
-📊 Core Visualizations Inside
+
+Core Visualizations Inside
 Patient Ratings Histogram: Displays the distribution of clinical ratings (1–10).
 
 Top Reviewed Medications: Horizontal bar charts visualizing prescription volume trends.
